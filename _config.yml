@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: a TechPacker journey 
-email:
+email: erik.bamberg@web.de
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Erik Bamberg"
   avatar : "/assets/images/Erik2-smaller.png"
-  bio    : "Java Expert with more then 25 years experience with a passion for sharing knowledge, team leading, and system design., Vector Database & Machine Learning Enthusiast, experienced public speaker. As a public speaker, I regularly speak at various conferences like NDC London, Google IO Extended, Manchester Tech Fest etc.
-
+  bio    : "Java Expert with more then 25 years experience with a passion for sharing knowledge, team leading, and system design., Vector Database & Machine Learning Enthusiast, experienced public speaker. As a public speaker, I regularly speak at various conferences like NDC London, Google IO Extended, Manchester Tech Fest etc."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
