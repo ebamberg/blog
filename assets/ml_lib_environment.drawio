@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="rtLY-z0kwd8XUGwPWsnz">
-    <mxGraphModel>
+    <mxGraphModel dx="976" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="305" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="290" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-3" value="safetensors" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-4" value="accelerate" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="312.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-5" value="Datasets" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-10" value="GPU/Distributed Trainig" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-11" value="Data loading/processing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-12" value="mlflow" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-14" value="Experiments /Metrics / Dashboard / MLOPs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="465" width="290" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-16" value="Optimization/ Big Models" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="490" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-17" value="LoRA/QLoRA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="535" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CtJWYGTYjbnjc6yF9jzf-18" value="bitsandbytes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="545" y="535" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
